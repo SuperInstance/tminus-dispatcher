@@ -1,7 +1,7 @@
 {
   "name": "@superinstance/tminus-dispatcher",
   "version": "1.0.0",
-  "description": "T-Minus Cue Dispatcher — the temporal heartbeat of the Symphony of Shells",
+  "description": "T-Minus Cue Dispatcher — the temporal heartbeat of the Symphony of Shells cognitive orchestration platform",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -11,14 +11,11 @@
   "dependencies": {
     "ws": "^8.16.0"
   },
-  "bin": {
-    "tminus-dispatcher": "./src/index.js"
-  },
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "license": "MIT"
 }
