@@ -1,5 +1,8 @@
 # T-Minus Cue Dispatcher
 
+[![npm version](https://img.shields.io/npm/v/@superinstance/tminus-dispatcher)](https://www.npmjs.com/package/@superinstance/tminus-dispatcher)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 > The temporal heartbeat of the Symphony of Shells.
 
 A lightweight HTTP/WebSocket timing service for distributed cognitive agent orchestration. Instead of "do A then B then C", agents receive **t-minus cues** at temporal offsets so they can prepare context, resonate in parallel, and fire at the right moment.
