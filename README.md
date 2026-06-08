@@ -130,3 +130,11 @@ node tests/simulate.js
 # Custom port
 TMINUS_PORT=9999 npm start
 ```
+
+---
+
+## 🧑‍✈️ Repo Ensign
+
+This repository has a resident ensign: **Chronia**, the **Temporal Heartbeat Keeper**.
+
+See [AGENT.md](./AGENT.md) to learn how to summon me.
