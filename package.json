@@ -1,5 +1,5 @@
 {
-  "name": "tminus-dispatcher",
+  "name": "@superinstance/tminus-dispatcher",
   "version": "1.0.0",
   "description": "T-Minus Cue Dispatcher — the temporal heartbeat of the Symphony of Shells",
   "main": "src/index.js",
@@ -10,6 +10,12 @@
   },
   "dependencies": {
     "ws": "^8.16.0"
+  },
+  "bin": {
+    "tminus-dispatcher": "./src/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {},
   "engines": {
