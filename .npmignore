@@ -1,0 +1,11 @@
+.github/
+.git/
+node_modules/
+memory/
+tests/
+.gitignore
+AGENT.md
+STUDENT_GUIDE.md
+Dockerfile
+.dockerignore
+package-lock.json
