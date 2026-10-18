@@ -1,7 +1,7 @@
 {
   "name": "@superinstance/tminus-dispatcher",
-  "version": "1.0.0",
-  "description": "T-Minus Cue Dispatcher — the temporal heartbeat of the Symphony of Shells cognitive orchestration platform",
+  "version": "1.0.1",
+  "description": "T-Minus Cue Dispatcher \u2014 the temporal heartbeat of the Symphony of Shells cognitive orchestration platform",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -17,5 +17,13 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperInstance/tminus-dispatcher.git"
+  },
+  "homepage": "https://github.com/SuperInstance/tminus-dispatcher#readme",
+  "bugs": {
+    "url": "https://github.com/SuperInstance/tminus-dispatcher/issues"
+  }
 }
